@@ -2,7 +2,7 @@
 
 <img src="https://bashlogo.com/img/logo/png/full_colored_dark.png" width="300px" />
 
-## NetworkChuck
+## 🧔 NetworkChuck
 
 [Episode 1](https://www.youtube.com/watch?v=SPwyp2NG-bE&t=10s) ➤ himom
 
@@ -12,6 +12,6 @@
 
 [Episode 4](https://www.youtube.com/watch?v=Fq6gqi9Ubog) ➤ eldenring
 
-## Playground
+## 🛝 Playground
 
 greeting
